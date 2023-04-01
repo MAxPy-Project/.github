@@ -6,7 +6,7 @@ This is the project to the MAxPy framework in which the paper is under review.
 
 MAxPy is an open-source framework for approximate computing. It is extremely flexible to explore the design space of any kind of circuits into Python-based applications. MAxPy is imported by the user as a Python package and automatically builds a cycle-accurate Python model of an approximate circuit design which can easily be emulated and integrated as a function in an application to simulate its behavior in the system.
 
-🔭 We are currently working on the <a href="https://maxpy-project.guthub.io/MAxPy" target="_blank">documentation</a>.
+🔭 We are currently working on the <a href="https://maxpy-project.github.io/MAxPy" target="_blank">documentation</a>.
 
 <div align="left">  
 
