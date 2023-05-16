@@ -13,10 +13,9 @@ MAxPy is an open-source framework for approximate computing. It is extremely fle
   <img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Team  
 </div> 
 
+- <a href="https://ysba.github.io/" target="_blank">  Yuri Arbeletche (UCPel) </a>
 
-- Yuri Arbeletche (UCPel)
-
-- <a href="https://gppaim.wordpress.com/" target="_blank">  Guilherme Paim (UFRGS, INESC-ID)  </a>
+- <a href="https://gppaim.wordpress.com/" target="_blank">  Guilherme Paim (UFRGS, INESC-ID) </a>
 
 - Brunno Abreu (UFRGS, INESC-ID)
 
